@@ -1,0 +1,4 @@
+train: C:\Users\Zoe Shao\Desktop\2022 Spring\CSCI 153\CS153 project\datasets\HollywoodHeads\Training
+val: C:\Users\Zoe Shao\Desktop\2022 Spring\CSCI 153\CS153 project\datasets\HollywoodHeads\Test
+nc: 1
+names: ['head']
